@@ -1,11 +1,11 @@
 # POO - Primeira Lista de Exercícios 
-**Aluno:** Paulo
+**Aluno:** Paulo De Oliveira Bernardes
 --- 
 ## Questão 1 
-Resposta: 
+Resposta: b) Public
 ## Questão 2 
-Resposta: 
+Resposta: e) char
 ## Questão 3 
-Resposta: 
+Resposta: a) 2
 ## Questão 4 
-Resposta: 
+Resposta: c) 12
